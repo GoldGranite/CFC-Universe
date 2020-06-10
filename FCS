@@ -1,0 +1,540 @@
+{
+   "bowlGames": 
+   [
+     "Rose Bowl",
+     "Orange Bowl",
+     "Sugar Bowl",
+     "Cotton Bowl",
+     "Peach Bowl",
+     "Fiesta Bowl",
+     "Citrus Bowl",
+     "Alamo Bowl",
+     "Outback Bowl",
+     "Holiday Bowl",
+     "Texas Bowl",
+     "Camping World Bowl",
+     "Music City Bowl",
+     "Belk Bowl",
+     "Pinstripe Bowl",
+     "Liberty Bowl",
+     "Redbox Bowl",
+     "Sun Bowl",
+     "Gator Bowl",
+     "Las Vegas Bowl",
+     "Military Bowl",
+     "First Responder Bowl",
+     "Birmingham Bowl",
+     "Dollar General Bowl",
+     "Independence Bowl",
+     "Gasparilla Bowl",
+     "New Mexico Bowl",
+     "Cheez-It Bowl",
+     "Hawai'i Bowl",
+     "Famous Idaho Potato Bowl",
+     "New Orleans Bowl",
+     "Armed Forces Bowl",
+     "Cure Bowl",
+     "Bahamas Bowl",
+     "Quick Lane Bowl",
+     "Frisco Bowl"
+   ],
+   "conferences": 
+   [    
+     {
+       "confName": "MVF",
+       "confFullName": "Missouri Valley FCS",
+       "confPrestige": "27",
+       "confTeams": 
+       [        
+         {
+           "name": "North Dakota State",
+           "abbreviation": "NDSU",
+           "prestige": "28",
+           "state": "North Dakota",
+           "rival": "SDSU",
+           "headCoach": 
+           {
+             "name": "Hootie Santiesteban",
+             "age": "48",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Montana",
+             "baselinePrestige": "18",
+             "cumulativePrestige": "0",
+             "ratOvr": "66",
+             "ratDef": "45",
+             "ratOff": "40",
+             "ratTalent": "44",
+             "ratDiscipline": "78",
+             "ratPot": "73"
+           }
+         },        
+         {
+           "name": "South Dakota State",
+           "abbreviation": "SDSU",
+           "prestige": "29",
+           "state": "South Dakota",
+           "rival": "NDSU",
+           "headCoach": 
+           {
+             "name": "Doug Kubacki",
+             "age": "34",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "West Virginia",
+             "baselinePrestige": "19",
+             "cumulativePrestige": "0",
+             "ratOvr": "56",
+             "ratDef": "47",
+             "ratOff": "49",
+             "ratTalent": "46",
+             "ratDiscipline": "45",
+             "ratPot": "76"
+           }
+         },        
+         {
+           "name": "Northern Iowa",
+           "abbreviation": "UNI",
+           "prestige": "25",
+           "state": "Iowa",
+           "rival": "WIU",
+           "headCoach": 
+           {
+             "name": "Elliott Sedlack",
+             "age": "37",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Idaho",
+             "baselinePrestige": "15",
+             "cumulativePrestige": "0",
+             "ratOvr": "56",
+             "ratDef": "44",
+             "ratOff": "49",
+             "ratTalent": "46",
+             "ratDiscipline": "48",
+             "ratPot": "78"
+           }
+         },        
+         {
+           "name": "Indiana State",
+           "abbreviation": "INST",
+           "prestige": "30",
+           "state": "Indiana",
+           "rival": "YSU",
+           "headCoach": 
+           {
+             "name": "Brad Rusteberg",
+             "age": "36",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Connecticut",
+             "baselinePrestige": "20",
+             "cumulativePrestige": "0",
+             "ratOvr": "60",
+             "ratDef": "46",
+             "ratOff": "47",
+             "ratTalent": "43",
+             "ratDiscipline": "56",
+             "ratPot": "72"
+           }
+         },        
+         {
+           "name": "Western Illinois",
+           "abbreviation": "WIU",
+           "prestige": "31",
+           "state": "Illinois",
+           "rival": "UNI",
+           "headCoach": 
+           {
+             "name": "Lance Eclarinal",
+             "age": "33",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Oregon",
+             "baselinePrestige": "21",
+             "cumulativePrestige": "0",
+             "ratOvr": "55",
+             "ratDef": "48",
+             "ratOff": "52",
+             "ratTalent": "41",
+             "ratDiscipline": "52",
+             "ratPot": "76"
+           }
+         },        
+         {
+           "name": "Illinois State",
+           "abbreviation": "ILST",
+           "prestige": "25",
+           "state": "Illinois",
+           "rival": "USD",
+           "headCoach": 
+           {
+             "name": "Roy Hedden",
+             "age": "55",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Texas",
+             "baselinePrestige": "15",
+             "cumulativePrestige": "0",
+             "ratOvr": "75",
+             "ratDef": "43",
+             "ratOff": "41",
+             "ratTalent": "41",
+             "ratDiscipline": "75",
+             "ratPot": "72"
+           }
+         },        
+         {
+           "name": "Youngstown State",
+           "abbreviation": "YSU",
+           "prestige": "28",
+           "state": "Virginia",
+           "rival": "INST",
+           "headCoach": 
+           {
+             "name": "Lorenzo Kubisiak",
+             "age": "50",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Oklahoma",
+             "baselinePrestige": "18",
+             "cumulativePrestige": "0",
+             "ratOvr": "66",
+             "ratDef": "56",
+             "ratOff": "50",
+             "ratTalent": "57",
+             "ratDiscipline": "62",
+             "ratPot": "66"
+           }
+         },        
+         {
+           "name": "Univ South Dakota",
+           "abbreviation": "USD",
+           "prestige": "25",
+           "state": "South Dakota",
+           "rival": "ILST",
+           "headCoach": 
+           {
+             "name": "Vinnie Difebbo",
+             "age": "32",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Alaska",
+             "baselinePrestige": "15",
+             "cumulativePrestige": "0",
+             "ratOvr": "63",
+             "ratDef": "44",
+             "ratOff": "45",
+             "ratTalent": "45",
+             "ratDiscipline": "80",
+             "ratPot": "76"
+           }
+         },        
+         {
+           "name": "Missouri State",
+           "abbreviation": "MOST",
+           "prestige": "25",
+           "state": "Missouri",
+           "rival": "SIL",
+           "headCoach": 
+           {
+             "name": "Curtis Caliguire",
+             "age": "40",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Maine",
+             "baselinePrestige": "15",
+             "cumulativePrestige": "0",
+             "ratOvr": "64",
+             "ratDef": "40",
+             "ratOff": "49",
+             "ratTalent": "43",
+             "ratDiscipline": "64",
+             "ratPot": "72"
+           }
+         },        
+         {
+           "name": "Southern Illinois",
+           "abbreviation": "SIL",
+           "prestige": "25",
+           "state": "Illinois",
+           "rival": "MOST",
+           "headCoach": 
+           {
+             "name": "Mario Torsiello",
+             "age": "48",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Wyoming",
+             "baselinePrestige": "15",
+             "cumulativePrestige": "0",
+             "ratOvr": "67",
+             "ratDef": "49",
+             "ratOff": "48",
+             "ratTalent": "51",
+             "ratDiscipline": "68",
+             "ratPot": "78"
+           }
+         }
+       ]
+     },    
+     {
+       "confName": "CAA",
+       "confFullName": "Colonial Athletic FCS",
+       "confPrestige": "25",
+       "confTeams": 
+       [        
+         {
+           "name": "Maine",
+           "abbreviation": "MAI",
+           "prestige": "25",
+           "state": "Maine",
+           "rival": "STON",
+           "headCoach": 
+           {
+             "name": "Matt Alexander",
+             "age": "35",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Iowa",
+             "baselinePrestige": "15",
+             "cumulativePrestige": "0",
+             "ratOvr": "72",
+             "ratDef": "70",
+             "ratOff": "58",
+             "ratTalent": "50",
+             "ratDiscipline": "63",
+             "ratPot": "66"
+           }
+         },        
+         {
+           "name": "James Madison",
+           "abbreviation": "JAME",
+           "prestige": "25",
+           "state": "Virginia",
+           "rival": "WILL",
+           "headCoach": 
+           {
+             "name": "Leonard Calica",
+             "age": "38",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Nevada",
+             "baselinePrestige": "15",
+             "cumulativePrestige": "0",
+             "ratOvr": "66",
+             "ratDef": "47",
+             "ratOff": "43",
+             "ratTalent": "42",
+             "ratDiscipline": "62",
+             "ratPot": "70"
+           }
+         },        
+         {
+           "name": "Stony Brook",
+           "abbreviation": "STON",
+           "prestige": "25",
+           "state": "New York",
+           "rival": "MAI",
+           "headCoach": 
+           {
+             "name": "Ali Beechum",
+             "age": "31",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Indiana",
+             "baselinePrestige": "15",
+             "cumulativePrestige": "0",
+             "ratOvr": "75",
+             "ratDef": "46",
+             "ratOff": "43",
+             "ratTalent": "47",
+             "ratDiscipline": "65",
+             "ratPot": "71"
+           }
+         },        
+         {
+           "name": "Towson",
+           "abbreviation": "TOW",
+           "prestige": "25",
+           "state": "Maryland",
+           "rival": "DEL",
+           "headCoach": 
+           {
+             "name": "Austin Villifana",
+             "age": "30",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Nevada",
+             "baselinePrestige": "15",
+             "cumulativePrestige": "0",
+             "ratOvr": "78",
+             "ratDef": "50",
+             "ratOff": "43",
+             "ratTalent": "48",
+             "ratDiscipline": "94",
+             "ratPot": "74"
+           }
+         },        
+         {
+           "name": "Delware",
+           "abbreviation": "DEL",
+           "prestige": "25",
+           "state": "Delaware",
+           "rival": "TOW",
+           "headCoach": 
+           {
+             "name": "Donovan Devenuto",
+             "age": "47",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Iowa",
+             "baselinePrestige": "15",
+             "cumulativePrestige": "0",
+             "ratOvr": "58",
+             "ratDef": "50",
+             "ratOff": "47",
+             "ratTalent": "47",
+             "ratDiscipline": "59",
+             "ratPot": "72"
+           }
+         },        
+         {
+           "name": "Elon",
+           "abbreviation": "ELO",
+           "prestige": "25",
+           "state": "North Carolina",
+           "rival": "VILA",
+           "headCoach": 
+           {
+             "name": "Paul Goldfuss",
+             "age": "36",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "New Mexico",
+             "baselinePrestige": "15",
+             "cumulativePrestige": "0",
+             "ratOvr": "65",
+             "ratDef": "46",
+             "ratOff": "43",
+             "ratTalent": "72",
+             "ratDiscipline": "69",
+             "ratPot": "90"
+           }
+         },        
+         {
+           "name": "Rhode Island",
+           "abbreviation": "RHO",
+           "prestige": "25",
+           "state": "Rhode Island",
+           "rival": "HAMP",
+           "headCoach": 
+           {
+             "name": "Donte Puna",
+             "age": "42",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Utah",
+             "baselinePrestige": "15",
+             "cumulativePrestige": "0",
+             "ratOvr": "58",
+             "ratDef": "59",
+             "ratOff": "55",
+             "ratTalent": "60",
+             "ratDiscipline": "55",
+             "ratPot": "66"
+           }
+         },        
+         {
+           "name": "William & Mary",
+           "abbreviation": "WILL",
+           "prestige": "25",
+           "state": "Virginia",
+           "rival": "JAME",
+           "headCoach": 
+           {
+             "name": "Bailey Northcott",
+             "age": "30",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Arizona",
+             "baselinePrestige": "15",
+             "cumulativePrestige": "0",
+             "ratOvr": "59",
+             "ratDef": "46",
+             "ratOff": "40",
+             "ratTalent": "48",
+             "ratDiscipline": "54",
+             "ratPot": "78"
+           }
+         },        
+         {
+           "name": "New Hampshire",
+           "abbreviation": "HAMP",
+           "prestige": "25",
+           "state": "New Hampshire",
+           "rival": "RHO",
+           "headCoach": 
+           {
+             "name": "Kurt Laza",
+             "age": "33",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Vermont",
+             "baselinePrestige": "15",
+             "cumulativePrestige": "0",
+             "ratOvr": "66",
+             "ratDef": "47",
+             "ratOff": "41",
+             "ratTalent": "48",
+             "ratDiscipline": "89",
+             "ratPot": "76"
+           }
+         },        
+         {
+           "name": "Villanova",
+           "abbreviation": "VILA",
+           "prestige": "25",
+           "state": "Pennsylvania",
+           "rival": "ELO",
+           "headCoach": 
+           {
+             "name": "Chase Dumpson",
+             "age": "35",
+             "startYear": "2024",
+             "contractYear": "0",
+             "contractLength": "7",
+             "homeState": "Nebraska",
+             "baselinePrestige": "15",
+             "cumulativePrestige": "0",
+             "ratOvr": "65",
+             "ratDef": "48",
+             "ratOff": "40",
+             "ratTalent": "49",
+             "ratDiscipline": "86",
+             "ratPot": "73"
+           }
+         }
+       ]
+     }
+   ]
+ }
