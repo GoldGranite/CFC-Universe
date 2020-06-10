@@ -261,6 +261,30 @@
             "ratDiscipline": "77",
             "ratPot": "58"
           }
+        },
+        {
+          "name": "Missouri",
+          "abbreviation": "MIZZ",
+          "prestige": "60",
+          "state": "Missouri",
+          "rival": "UK",
+          "headCoach": 
+          {
+            "name": "Gus Malzahn",
+            "age": "53",
+            "startYear": "2020",
+            "contractYear": "6",
+            "contractLength": "8",
+            "homeState": "Texas",
+            "baselinePrestige": "74",
+            "cumulativePrestige": "2",
+            "ratOvr": "75",
+            "ratDef": "71",
+            "ratOff": "80",
+            "ratTalent": "70",
+            "ratDiscipline": "77",
+            "ratPot": "58"
+          }
         },        
         {
           "name": "Vanderbilt",
